@@ -24,7 +24,7 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 
-echo Windows Cleaner Utility Launcher by Chainski Tools
+echo Windows Cleaner Utility Launcher by Champion Tools
 goto int
 
 :int
