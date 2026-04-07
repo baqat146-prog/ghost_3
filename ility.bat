@@ -33,9 +33,6 @@ cls
 set VER=1.0.0
 set dir=%temp%
 
-set github-link=https://github.com/Chainski/WindowsCleanerUtility
-set license=GNU GENERAL PUBLIC LICENSE (version 3)
-set license-file=LICENSE.txt
 timeout 1 /nul
 goto menu
 
@@ -54,8 +51,7 @@ echo                                               [40;33m ╔═════�
 echo                                               [40;33m ║     Windows Cleaner Utility     ║                                              
 echo                                               [40;33m ║            by  Champion         ║                
 echo                                               [40;33m ╚═════════════════════════════════╝    
-
-title Windows Cleaner Utility %ver% by Chainski 
+ 
 echo.
 echo [40;32m Press a button from 1 to 5 - each of these buttons has its own function as described below:
 echo.
